@@ -21,7 +21,7 @@ rownames(posgroup)[1] <- 'LABEL'
 rownames(neggroup)[1] <- 'LABEL'
 
 write.csv(posgroup, file = "posgroup.csv", row.names= TRUE)
-write.csv(posgroup, file = "neggroup.csv", row.names = TRUE)
+write.csv(neggroup, file = "neggroup.csv", row.names = TRUE)
 
 
 
