@@ -1,7 +1,7 @@
 # RStudio_MetabolomicsDataFormatting
 Formatted data obtained from metabolomics workbench to use in analysis
 
-![Flowchart of Data Pipeline](images/MetabolomicFormatFlowchart.png)
+![Flowchart of Data Pipeline](/Users/ardicsahin/Downloads/MetabolomicFormatFlowchart.png)
 
 
 
